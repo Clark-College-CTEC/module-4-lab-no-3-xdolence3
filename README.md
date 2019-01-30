@@ -6,10 +6,10 @@ This lab will have you clone this repository down to your computer. Once you hav
 
 This repository contains the following files:
 
-- graphics.py - The graphics library.
-- README.md - This file that you are currently reading. It's a file written in markup language known as Markdown.
-- lab3.py - This is the file that you will be coding your work for this lab.
-- .gitignore - This file tells git to ignore the **__pycache__** files that get created by the graphics library
+- **graphics.py** - The graphics library.
+- **README.md** - This file that you are currently reading. It's a file written in markup language known as Markdown.
+- **lab3.py** - This is the file that you will be coding your work for this lab.
+- **.gitignore** - This file tells git to ignore the **__pycache__** files that get created by the graphics library. It's a hidden file.
 
 ## Steps to Follow
 
